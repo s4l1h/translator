@@ -52,7 +52,7 @@ func (t *Translator) Get(trans Translation) string {
 			return res
 		}
 	}
-	return ""
+	return trans.Locale
 }
 
 // GetKey translation with locale and key
