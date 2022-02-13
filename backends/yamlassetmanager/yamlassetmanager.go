@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/akmyazilim/assetmanager"
-	"github.com/akmyazilim/translator"
+	"github.com/s4l1h/assetmanager"
+	"github.com/s4l1h/translator"
 	yaml "gopkg.in/yaml.v2"
 )
 
