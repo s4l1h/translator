@@ -1,4 +1,4 @@
-s4l1hs4l1hpackage yamlbackend
+package yamlbackend
 
 import (
 	"io/ioutil"
@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/akmyazilim/translator"
+	"github.com/s4l1h/translator"
 	yaml "gopkg.in/yaml.v2"
 )
 
