@@ -1,4 +1,4 @@
-package yamlassetmanager
+s4l1hpackage yamlassetmanager
 
 import (
 	"path/filepath"
